@@ -1,0 +1,22 @@
+body{
+    background: url("../images/gym.jpg")
+        no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Girassol', cursive;
+}
+
+
+div{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 3em;
+    opacity: 0.6;
+}
+button{
+    background: #7a17ce;
+    padding: 10px 20px;
+    color: white;
+    font-size: 0.3em;
+    border-radius: 20px;
+}
